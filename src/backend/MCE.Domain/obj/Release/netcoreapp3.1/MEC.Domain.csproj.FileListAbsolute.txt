@@ -1,0 +1,9 @@
+C:\MCE_v2\src\MEC\MEC.Domain\bin\Release\netcoreapp3.1\MEC.Domain.deps.json
+C:\MCE_v2\src\MEC\MEC.Domain\bin\Release\netcoreapp3.1\MEC.Domain.dll
+C:\MCE_v2\src\MEC\MEC.Domain\bin\Release\netcoreapp3.1\MEC.Domain.pdb
+C:\MCE_v2\src\MEC\MEC.Domain\obj\Release\netcoreapp3.1\MEC.Domain.csprojAssemblyReference.cache
+C:\MCE_v2\src\MEC\MEC.Domain\obj\Release\netcoreapp3.1\MEC.Domain.AssemblyInfoInputs.cache
+C:\MCE_v2\src\MEC\MEC.Domain\obj\Release\netcoreapp3.1\MEC.Domain.AssemblyInfo.cs
+C:\MCE_v2\src\MEC\MEC.Domain\obj\Release\netcoreapp3.1\MEC.Domain.csproj.CoreCompileInputs.cache
+C:\MCE_v2\src\MEC\MEC.Domain\obj\Release\netcoreapp3.1\MEC.Domain.dll
+C:\MCE_v2\src\MEC\MEC.Domain\obj\Release\netcoreapp3.1\MEC.Domain.pdb

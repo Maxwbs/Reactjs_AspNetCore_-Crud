@@ -1,0 +1,16 @@
+C:\MCE_v2\src\MCE\MCE.Service\bin\Debug\netcoreapp3.1\MCE.Service.deps.json
+C:\MCE_v2\src\MCE\MCE.Service\bin\Debug\netcoreapp3.1\MCE.Service.dll
+C:\MCE_v2\src\MCE\MCE.Service\bin\Debug\netcoreapp3.1\MCE.Service.pdb
+C:\MCE_v2\src\MCE\MCE.Service\bin\Debug\netcoreapp3.1\MCE.Data.dll
+C:\MCE_v2\src\MCE\MCE.Service\bin\Debug\netcoreapp3.1\MCE.Domain.dll
+C:\MCE_v2\src\MCE\MCE.Service\bin\Debug\netcoreapp3.1\MCE.Integracao.dll
+C:\MCE_v2\src\MCE\MCE.Service\bin\Debug\netcoreapp3.1\MCE.Integracao.pdb
+C:\MCE_v2\src\MCE\MCE.Service\bin\Debug\netcoreapp3.1\MCE.Data.pdb
+C:\MCE_v2\src\MCE\MCE.Service\bin\Debug\netcoreapp3.1\MCE.Domain.pdb
+C:\MCE_v2\src\MCE\MCE.Service\obj\Debug\netcoreapp3.1\MCE.Service.csprojAssemblyReference.cache
+C:\MCE_v2\src\MCE\MCE.Service\obj\Debug\netcoreapp3.1\MCE.Service.AssemblyInfoInputs.cache
+C:\MCE_v2\src\MCE\MCE.Service\obj\Debug\netcoreapp3.1\MCE.Service.AssemblyInfo.cs
+C:\MCE_v2\src\MCE\MCE.Service\obj\Debug\netcoreapp3.1\MCE.Service.csproj.CoreCompileInputs.cache
+C:\MCE_v2\src\MCE\MCE.Service\obj\Debug\netcoreapp3.1\MCE.Service.csproj.CopyComplete
+C:\MCE_v2\src\MCE\MCE.Service\obj\Debug\netcoreapp3.1\MCE.Service.dll
+C:\MCE_v2\src\MCE\MCE.Service\obj\Debug\netcoreapp3.1\MCE.Service.pdb

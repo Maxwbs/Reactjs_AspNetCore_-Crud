@@ -1,0 +1,12 @@
+C:\MCE_v2\src\MEC\MCE.Integracao\bin\Debug\MCE.Integracao.dll
+C:\MCE_v2\src\MEC\MCE.Integracao\bin\Debug\MCE.Integracao.pdb
+C:\MCE_v2\src\MEC\MCE.Integracao\obj\Debug\MCE.Integracao.csproj.CoreCompileInputs.cache
+C:\MCE_v2\src\MEC\MCE.Integracao\obj\Debug\MCE.Integracao.dll
+C:\MCE_v2\src\MEC\MCE.Integracao\obj\Debug\MCE.Integracao.pdb
+C:\MCE_v2\src\mec\MCE.Integracao\obj\Debug\MCE.Integracao.csprojAssemblyReference.cache
+C:\MCE_v2\src\MCE\MCE.Integracao\bin\Debug\MCE.Integracao.dll
+C:\MCE_v2\src\MCE\MCE.Integracao\bin\Debug\MCE.Integracao.pdb
+C:\MCE_v2\src\MCE\MCE.Integracao\obj\Debug\MCE.Integracao.csproj.CoreCompileInputs.cache
+C:\MCE_v2\src\MCE\MCE.Integracao\obj\Debug\MCE.Integracao.dll
+C:\MCE_v2\src\MCE\MCE.Integracao\obj\Debug\MCE.Integracao.pdb
+C:\MCE_v2\src\MCE\MCE.Integracao\obj\Debug\MCE.Integracao.csprojAssemblyReference.cache

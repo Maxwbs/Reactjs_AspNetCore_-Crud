@@ -1,0 +1,16 @@
+C:\MCE_v2\src\MEC\MEC.Service\bin\Debug\netcoreapp3.1\MEC.Service.deps.json
+C:\MCE_v2\src\MEC\MEC.Service\bin\Debug\netcoreapp3.1\MEC.Service.dll
+C:\MCE_v2\src\MEC\MEC.Service\bin\Debug\netcoreapp3.1\MEC.Service.pdb
+C:\MCE_v2\src\MEC\MEC.Service\bin\Debug\netcoreapp3.1\MCE.Integracao.dll
+C:\MCE_v2\src\MEC\MEC.Service\bin\Debug\netcoreapp3.1\MEC.Data.dll
+C:\MCE_v2\src\MEC\MEC.Service\bin\Debug\netcoreapp3.1\MEC.Domain.dll
+C:\MCE_v2\src\MEC\MEC.Service\bin\Debug\netcoreapp3.1\MCE.Integracao.pdb
+C:\MCE_v2\src\MEC\MEC.Service\bin\Debug\netcoreapp3.1\MEC.Data.pdb
+C:\MCE_v2\src\MEC\MEC.Service\bin\Debug\netcoreapp3.1\MEC.Domain.pdb
+C:\MCE_v2\src\MEC\MEC.Service\obj\Debug\netcoreapp3.1\MEC.Service.csprojAssemblyReference.cache
+C:\MCE_v2\src\MEC\MEC.Service\obj\Debug\netcoreapp3.1\MEC.Service.AssemblyInfoInputs.cache
+C:\MCE_v2\src\MEC\MEC.Service\obj\Debug\netcoreapp3.1\MEC.Service.AssemblyInfo.cs
+C:\MCE_v2\src\MEC\MEC.Service\obj\Debug\netcoreapp3.1\MEC.Service.csproj.CoreCompileInputs.cache
+C:\MCE_v2\src\MEC\MEC.Service\obj\Debug\netcoreapp3.1\MEC.Service.csproj.CopyComplete
+C:\MCE_v2\src\MEC\MEC.Service\obj\Debug\netcoreapp3.1\MEC.Service.dll
+C:\MCE_v2\src\MEC\MEC.Service\obj\Debug\netcoreapp3.1\MEC.Service.pdb

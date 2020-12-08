@@ -1,0 +1,6 @@
+C:\MCE_v2\src\MEC\MCE.Integracao\bin\Release\MCE.Integracao.dll
+C:\MCE_v2\src\MEC\MCE.Integracao\bin\Release\MCE.Integracao.pdb
+C:\MCE_v2\src\MEC\MCE.Integracao\obj\Release\MCE.Integracao.csprojAssemblyReference.cache
+C:\MCE_v2\src\MEC\MCE.Integracao\obj\Release\MCE.Integracao.csproj.CoreCompileInputs.cache
+C:\MCE_v2\src\MEC\MCE.Integracao\obj\Release\MCE.Integracao.dll
+C:\MCE_v2\src\MEC\MCE.Integracao\obj\Release\MCE.Integracao.pdb

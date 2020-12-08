@@ -1,0 +1,15 @@
+C:\MCE_v2\src\MEC\MEC.Data\bin\Release\netcoreapp3.1\MEC.Data.deps.json
+C:\MCE_v2\src\MEC\MEC.Data\bin\Release\netcoreapp3.1\MEC.Data.runtimeconfig.json
+C:\MCE_v2\src\MEC\MEC.Data\bin\Release\netcoreapp3.1\MEC.Data.runtimeconfig.dev.json
+C:\MCE_v2\src\MEC\MEC.Data\bin\Release\netcoreapp3.1\MEC.Data.dll
+C:\MCE_v2\src\MEC\MEC.Data\bin\Release\netcoreapp3.1\MEC.Data.pdb
+C:\MCE_v2\src\MEC\MEC.Data\bin\Release\netcoreapp3.1\MEC.Domain.dll
+C:\MCE_v2\src\MEC\MEC.Data\bin\Release\netcoreapp3.1\MEC.Domain.pdb
+C:\MCE_v2\src\MEC\MEC.Data\obj\Release\netcoreapp3.1\MEC.Data.csprojAssemblyReference.cache
+C:\MCE_v2\src\MEC\MEC.Data\obj\Release\netcoreapp3.1\MEC.Data.AssemblyInfoInputs.cache
+C:\MCE_v2\src\MEC\MEC.Data\obj\Release\netcoreapp3.1\MEC.Data.AssemblyInfo.cs
+C:\MCE_v2\src\MEC\MEC.Data\obj\Release\netcoreapp3.1\MEC.Data.csproj.CoreCompileInputs.cache
+C:\MCE_v2\src\MEC\MEC.Data\obj\Release\netcoreapp3.1\MEC.Data.csproj.CopyComplete
+C:\MCE_v2\src\MEC\MEC.Data\obj\Release\netcoreapp3.1\MEC.Data.dll
+C:\MCE_v2\src\MEC\MEC.Data\obj\Release\netcoreapp3.1\MEC.Data.pdb
+C:\MCE_v2\src\MEC\MEC.Data\obj\Release\netcoreapp3.1\MEC.Data.genruntimeconfig.cache

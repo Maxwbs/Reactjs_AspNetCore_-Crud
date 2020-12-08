@@ -1,0 +1,15 @@
+C:\MCE_v2\src\MCE\MCE.Data\bin\Debug\netcoreapp3.1\MCE.Data.deps.json
+C:\MCE_v2\src\MCE\MCE.Data\bin\Debug\netcoreapp3.1\MCE.Data.runtimeconfig.json
+C:\MCE_v2\src\MCE\MCE.Data\bin\Debug\netcoreapp3.1\MCE.Data.runtimeconfig.dev.json
+C:\MCE_v2\src\MCE\MCE.Data\bin\Debug\netcoreapp3.1\MCE.Data.dll
+C:\MCE_v2\src\MCE\MCE.Data\bin\Debug\netcoreapp3.1\MCE.Data.pdb
+C:\MCE_v2\src\MCE\MCE.Data\bin\Debug\netcoreapp3.1\MCE.Domain.dll
+C:\MCE_v2\src\MCE\MCE.Data\bin\Debug\netcoreapp3.1\MCE.Domain.pdb
+C:\MCE_v2\src\MCE\MCE.Data\obj\Debug\netcoreapp3.1\MCE.Data.csprojAssemblyReference.cache
+C:\MCE_v2\src\MCE\MCE.Data\obj\Debug\netcoreapp3.1\MCE.Data.AssemblyInfoInputs.cache
+C:\MCE_v2\src\MCE\MCE.Data\obj\Debug\netcoreapp3.1\MCE.Data.AssemblyInfo.cs
+C:\MCE_v2\src\MCE\MCE.Data\obj\Debug\netcoreapp3.1\MCE.Data.csproj.CoreCompileInputs.cache
+C:\MCE_v2\src\MCE\MCE.Data\obj\Debug\netcoreapp3.1\MCE.Data.csproj.CopyComplete
+C:\MCE_v2\src\MCE\MCE.Data\obj\Debug\netcoreapp3.1\MCE.Data.dll
+C:\MCE_v2\src\MCE\MCE.Data\obj\Debug\netcoreapp3.1\MCE.Data.pdb
+C:\MCE_v2\src\MCE\MCE.Data\obj\Debug\netcoreapp3.1\MCE.Data.genruntimeconfig.cache

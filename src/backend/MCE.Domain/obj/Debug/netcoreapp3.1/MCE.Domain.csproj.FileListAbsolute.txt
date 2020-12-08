@@ -1,0 +1,9 @@
+C:\MCE_v2\src\MCE\MCE.Domain\bin\Debug\netcoreapp3.1\MCE.Domain.deps.json
+C:\MCE_v2\src\MCE\MCE.Domain\bin\Debug\netcoreapp3.1\MCE.Domain.dll
+C:\MCE_v2\src\MCE\MCE.Domain\bin\Debug\netcoreapp3.1\MCE.Domain.pdb
+C:\MCE_v2\src\MCE\MCE.Domain\obj\Debug\netcoreapp3.1\MCE.Domain.AssemblyInfoInputs.cache
+C:\MCE_v2\src\MCE\MCE.Domain\obj\Debug\netcoreapp3.1\MCE.Domain.AssemblyInfo.cs
+C:\MCE_v2\src\MCE\MCE.Domain\obj\Debug\netcoreapp3.1\MCE.Domain.csproj.CoreCompileInputs.cache
+C:\MCE_v2\src\MCE\MCE.Domain\obj\Debug\netcoreapp3.1\MCE.Domain.dll
+C:\MCE_v2\src\MCE\MCE.Domain\obj\Debug\netcoreapp3.1\MCE.Domain.pdb
+C:\MCE_v2\src\MCE\MCE.Domain\obj\Debug\netcoreapp3.1\MCE.Domain.csprojAssemblyReference.cache

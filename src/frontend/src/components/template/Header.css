@@ -1,0 +1,13 @@
+header.header{
+  background-color: #fff;/*cor do fundo*/
+  padding: 0px 15px; /*separar o icone do escrito*/
+  overflow: hidden;/*não estourar espaços*/
+  white-space: nowrap;/*não estourar espaços textos*/
+  box-shadow: var(--shadow);/*sombreamento*/
+  height: 100%;
+}
+
+p{
+  font-size: 65%;
+  color: grey;
+}
